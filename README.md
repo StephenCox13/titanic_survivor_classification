@@ -1,2 +1,2 @@
 # titanic_survivor_classification
-Solving a Classification Problem with KNN
+Solving a ML Classification Problem with KNN
