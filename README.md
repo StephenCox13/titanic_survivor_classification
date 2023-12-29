@@ -1,2 +1,2 @@
 # titanic_survivor_classification
-Solving a ML Classification Problem with KNN
+Solving a Machine Learning Classification Problem with K-Nearest Neighbors (KNN) Algorithm
